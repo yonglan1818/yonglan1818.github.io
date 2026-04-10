@@ -895,7 +895,7 @@ html {
 html,
 body {
   height: 100%;
-  font-family: var(--font-family-sans-serif);
+  font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
   overflow-wrap: break-word;
 }
 body {
@@ -961,7 +961,7 @@ body.mobile-menu-open {
 }
 :root {
   --color-mode: "light";
-  --body-bg-color: #eee;
+  --body-bg-color: #eef0f4;
   --board-bg-color: #fff;
   --text-color: #3c4858;
   --sec-text-color: #718096;
@@ -1005,7 +1005,7 @@ body.mobile-menu-open {
     --scrollbar-hover-color: #9da8b3;
     --button-bg-color: transparent;
     --button-hover-bg-color: #46647e;
-    --highlight-bg-color: #303030;
+    --highlight-bg-color: #2d333b;
     --inlinecode-bg-color: rgba(99,110,123,0.4);
     --fold-title-color: #c4c6c9;
     --fold-border-color: #435266;
@@ -1043,7 +1043,7 @@ body.mobile-menu-open {
     --scrollbar-hover-color: #9da8b3;
     --button-bg-color: transparent;
     --button-hover-bg-color: #46647e;
-    --highlight-bg-color: #303030;
+    --highlight-bg-color: #2d333b;
     --inlinecode-bg-color: rgba(99,110,123,0.4);
     --fold-title-color: #c4c6c9;
     --fold-border-color: #435266;
@@ -1559,7 +1559,7 @@ figure.highlight td.code > pre {
 .markdown-body {
   font-size: 1rem;
   line-height: 1.6;
-  font-family: var(--font-family-sans-serif);
+  font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
   margin-bottom: 2rem;
   color: var(--post-text-color);
 }

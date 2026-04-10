@@ -16,5 +16,86 @@
   
   
   
+  <entry>
+    <title>搭建博客的心路历程</title>
+    <link href="/2025/04/10/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
+    <url>/2025/04/10/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>一直想拥有一个自己的博客，可以记录学习笔记、生活感悟。</p><h2 id="方案选择"><a href="#方案选择" class="headerlink" title="方案选择"></a>方案选择</h2><table><thead><tr><th>方案</th><th>优点</th><th>缺点</th></tr></thead><tbody><tr><td>WordPress</td><td>功能强大</td><td>需要服务器</td></tr><tr><td>Hugo</td><td>速度快</td><td>主题少</td></tr><tr><td><strong>Hexo</strong></td><td>生态好、主题多</td><td>需要 Node.js</td></tr></tbody></table><p>最终我选择了 <strong>Hexo + GitHub Pages</strong> 的方案，免费且稳定。</p><h2 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h2><ol><li>安装 Node.js 和 Git</li><li>安装 Hexo CLI</li><li>初始化博客</li><li>安装 Fluid 主题</li><li>部署到 GitHub Pages</li></ol><h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><blockquote><p>纸上得来终觉浅，绝知此事要躬行。</p></blockquote><p>虽然过程中遇到了很多问题，但一一解决后，成就感满满！</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+      <tag>博客</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Fluid 主题真好看</title>
+    <link href="/2025/04/10/Fluid%E4%B8%BB%E9%A2%98%E7%9C%9F%E5%A5%BD%E7%9C%8B/"/>
+    <url>/2025/04/10/Fluid%E4%B8%BB%E9%A2%98%E7%9C%9F%E5%A5%BD%E7%9C%8B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Fluid-主题介绍"><a href="#Fluid-主题介绍" class="headerlink" title="Fluid 主题介绍"></a>Fluid 主题介绍</h2><p><strong>Fluid</strong> 是一款 Material Design 风格的 Hexo 博客主题，具有以下特点：</p><h3 id="✨-特点"><a href="#✨-特点" class="headerlink" title="✨ 特点"></a>✨ 特点</h3><ol><li>🎨 简洁的 Material Design 风格</li><li>🌙 支持暗色模式</li><li>🔍 内置本地搜索</li><li>📊 文章字数统计和阅读时间</li><li>🖼️ 图片懒加载和灯箱效果</li><li>💬 多种评论系统支持</li></ol><h3 id="📸-为什么选择-Fluid"><a href="#📸-为什么选择-Fluid" class="headerlink" title="📸 为什么选择 Fluid"></a>📸 为什么选择 Fluid</h3><blockquote><p>简约而不简单，这就是 Fluid 的魅力所在。</p></blockquote><p>Fluid 的设计理念是让读者专注于内容本身，同时提供优雅的视觉体验。</p><h2 id="推荐指数"><a href="#推荐指数" class="headerlink" title="推荐指数"></a>推荐指数</h2><p>⭐⭐⭐⭐⭐ 五星推荐！</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>主题</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="/2025/04/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2025/04/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>大家好！这是我的第一篇博客文章。</p><p>我使用 <strong>Hexo</strong> 框架搭建了这个博客，主题是 <strong>Fluid</strong>，一个非常简洁好看的主题。</p><h2 id="为什么选择-Hexo"><a href="#为什么选择-Hexo" class="headerlink" title="为什么选择 Hexo"></a>为什么选择 Hexo</h2><ul><li>🚀 速度快，纯静态</li><li>🎨 主题丰富</li><li>📝 Markdown 写作</li><li>🆓 免费托管在 GitHub Pages</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>折腾了一番，终于把博客搭好了。以后会在这里记录学习和生活~</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>日常</tag>
+      
+      <tag>生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
